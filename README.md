@@ -1,5 +1,9 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+Live Here: https://chatapp-7-cse0.onrender.com/login
+
+Deployed by DevOps Engineer : https://www.linkedin.com/in/abishekkc701/ 
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
