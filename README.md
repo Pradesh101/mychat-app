@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-Live Here: https://chatapp-7-cse0.onrender.com/login
+Live Here: https://pradeshchatapp1.onrender.com/login
 
 Deployed by DevOps Engineer : https://www.linkedin.com/in/abishekkc701/ 
 
